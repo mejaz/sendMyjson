@@ -1,4 +1,4 @@
 bkend/
-sendmyjson/node_modules/
+sendmyjson/
 be/smjbe/smjbe/settings.py
 be/smjbe/db.sqlite3
