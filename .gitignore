@@ -1,0 +1,4 @@
+bkend/
+sendmyjson/node_modules/
+be/smjbe/smjbe/settings.py
+be/smjbe/db.sqlite3
